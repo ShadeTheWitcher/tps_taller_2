@@ -1,0 +1,11 @@
+E:\bibliotecas\Documents\Programacion Projects\App escritorio vs\Practico 5\Practico 5\bin\Debug\Practico 5.exe.config
+E:\bibliotecas\Documents\Programacion Projects\App escritorio vs\Practico 5\Practico 5\bin\Debug\Practico 5.exe
+E:\bibliotecas\Documents\Programacion Projects\App escritorio vs\Practico 5\Practico 5\bin\Debug\Practico 5.pdb
+E:\bibliotecas\Documents\Programacion Projects\App escritorio vs\Practico 5\Practico 5\obj\Debug\Practico 5.csproj.AssemblyReference.cache
+E:\bibliotecas\Documents\Programacion Projects\App escritorio vs\Practico 5\Practico 5\obj\Debug\Practico 5.csproj.SuggestedBindingRedirects.cache
+E:\bibliotecas\Documents\Programacion Projects\App escritorio vs\Practico 5\Practico 5\obj\Debug\Practico_5.Form1.resources
+E:\bibliotecas\Documents\Programacion Projects\App escritorio vs\Practico 5\Practico 5\obj\Debug\Practico_5.Properties.Resources.resources
+E:\bibliotecas\Documents\Programacion Projects\App escritorio vs\Practico 5\Practico 5\obj\Debug\Practico 5.csproj.GenerateResource.cache
+E:\bibliotecas\Documents\Programacion Projects\App escritorio vs\Practico 5\Practico 5\obj\Debug\Practico 5.csproj.CoreCompileInputs.cache
+E:\bibliotecas\Documents\Programacion Projects\App escritorio vs\Practico 5\Practico 5\obj\Debug\Practico 5.exe
+E:\bibliotecas\Documents\Programacion Projects\App escritorio vs\Practico 5\Practico 5\obj\Debug\Practico 5.pdb
